@@ -1,5 +1,6 @@
-import AvatarPage from '../views/avatar-page/AvatarPage.vue'
-import ErrorPage from '../views/ErrorPage.vue'
+import AvatarPage from '../views/avatar-page/avatar-page.vue'
+import LoadingPage from '../views/loading-page.vue'
+import ErrorPage from '../views/error-page.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
@@ -7,6 +8,10 @@ const router = createRouter({
   routes: [
     {
       path: "/",
+      component: LoadingPage
+    },
+    {
+      path:"/:avatar",
       component: AvatarPage
     },
     {

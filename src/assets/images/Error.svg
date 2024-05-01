@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386.5 111.4">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: ALSHauss, 'ALS Hauss';
+        font-size: 100px;
+        font-variation-settings: 'wght' 400, 'ital' 1;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <text class="cls-2" transform="translate(0 85.2)"><tspan x="0" y="0">Ошиб</tspan><tspan class="cls-1" x="271.5" y="0">к</tspan><tspan x="321.1" y="0">а</tspan></text>
+  </g>
+</svg>

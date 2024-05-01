@@ -16,6 +16,7 @@
   "dependencies": {
     "gh-pages": "^6.1.1",
     "hover-effect": "^1.2.1",
+    "merge-images": "^2.0.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
